@@ -32,10 +32,10 @@ User authentication
 Code saving functionality
 
 #first-page
-<img width="1913" height="876" alt="Screenshot 2026-06-09 190824" src="https://github.com/user-attachments/assets/8e9af1fc-85b6-43d6-9c6a-b7b05c5caf88" />
+<img width="1892" height="860" alt="Screenshot 2026-06-09 190600" src="https://github.com/user-attachments/assets/d4f4ae4e-1b43-46aa-a860-0451171580fe" />
 
 #code room
-<img width="1892" height="860" alt="Screenshot 2026-06-09 190600" src="https://github.com/user-attachments/assets/d4f4ae4e-1b43-46aa-a860-0451171580fe" />
+<img width="1913" height="876" alt="Screenshot 2026-06-09 190824" src="https://github.com/user-attachments/assets/8e9af1fc-85b6-43d6-9c6a-b7b05c5caf88" />
 
 
 
